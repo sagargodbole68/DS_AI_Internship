@@ -16,9 +16,9 @@ print(temperature_readings[-3])
       
 #task3
 screen_res = (1920, 1080)
-print(f"Current screen resolution: {screen_res[0]} x {screen_res[1]}")
+print(f"Current screen resolution: {screen_res[0]}x{screen_res[1]}")
 screen_res = (1280, 1080)
-print("tuples file cannot be changed")
+print("Tuple file cannot be changed!")
 
 
 

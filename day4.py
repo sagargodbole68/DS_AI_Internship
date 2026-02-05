@@ -21,6 +21,5 @@ friend_a = {"python", "cooking", "hiking", "movies"}
 friend_b = {"hiking", "gaming", "movies","photography", "python"}
 print(friend_a | friend_b)
 print(friend_a & friend_b)
-
 print(friend_a - friend_b)
 

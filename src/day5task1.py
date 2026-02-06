@@ -3,3 +3,4 @@ def  calc_rectangle(length, width):
     perimeter = 2*(length * width)
     return area,perimeter
 print(calc_rectangle(4,6))
+

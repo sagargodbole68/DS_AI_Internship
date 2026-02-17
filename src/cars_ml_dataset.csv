@@ -18,4 +18,5 @@ CarID,Transmission,Color,Age,Salary,EngineSize,Price
 17,Automatic,Blue,1,24000,1.2,19000
 18,Manual,Green,8,55000,2.6,10800
 19,Automatic,Red,9,58000,2.7,10200
-20,Manual,Blue,2,27000,1.40,18000
+20,Manual,Blue,2,27000,1.4,18000
+
